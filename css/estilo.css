@@ -518,6 +518,7 @@
             gap: 10px;
             margin: 10px;
             
+            
     }
     
     .container-txt-presentacion-2{
@@ -525,13 +526,15 @@
         border: solid 2px black;
         height: 300px;
         width: 300px;
+        display: flex;
+        align-items: center;
         
     }
     
     .texto-presentacion-2{
         
         text-align: left;
-        display: none;
+        
     }
     
     .container-map-1{
@@ -567,11 +570,13 @@
         border: solid 2px black;
         height: 300px;
         width: 300px;
+        display: flex;
+        align-items: center;
     }
     
     .texto-presentacion-3{
-        text-align: right;
-        display: none;
+        text-align: left;
+        
     }
     
     .container-txt-presentacion-4{
@@ -579,6 +584,8 @@
         border: solid 2px black;
         height: 350px;
         width: 300px;
+        display: flex;
+        align-items: center;
     
     }
     
@@ -1619,13 +1626,15 @@
         border: solid 2px black;
         height: 290px;
         width: 290px;
+        display: flex;
+        align-items: center;
         
     }
     
     .texto-presentacion-2{
         
         text-align: left;
-        display: none;
+        
     }
     
     .container-map-1{
@@ -1661,11 +1670,13 @@
         border: solid 2px black;
         height: 290px;
         width: 290px;
+        display: flex;
+        align-items: center;
     }
     
     .texto-presentacion-3{
-        text-align: right;
-        display: none;
+        text-align: left;
+        
     }
     
     .container-txt-presentacion-4{
@@ -1673,6 +1684,8 @@
         border: solid 2px black;
         height: 350px;
         width: 590px;
+        display: flex;
+        align-items: center;
     
     }
     
@@ -2619,6 +2632,7 @@
 .texto-presentacion{
 
     text-align: center;
+    font-size: 3rem;
 
 }
 
@@ -2657,12 +2671,15 @@
     border: solid 2px black;
     height: 500px;
     width: 500px;
+    display: flex;
+    align-items: center;
     
 }
 
 .texto-presentacion-2{
 
     text-align: left;
+    font-size: 2rem;
 }
 
 .container-map-1{
@@ -2698,10 +2715,13 @@
     border: solid 2px black;
     height: 500px;
     width: 500px;
+    display: flex;
+    align-items: center;
 }
 
 .texto-presentacion-3{
-    text-align: right;
+    text-align: left;
+    font-size: 2rem;
 }
 
 .container-txt-presentacion-4{
@@ -2709,12 +2729,21 @@
     border: solid 2px black;
     height: 500px;
     width: 1000px;
+    display: flex;
+    align-items: center;
 
 }
 
 
 .texto-presentacion-4{
     text-align: center;
+    font-size: 3rem;
+}
+
+.video-presentacion{
+
+    margin: 10px;
+
 }
 
 
