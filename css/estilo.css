@@ -528,6 +528,7 @@
         display: flex;
         align-items: center;
         
+        
     }
     
     .texto-presentacion-2{
@@ -1681,7 +1682,7 @@
     
     .container-txt-presentacion-4{
         
-        
+
         border: solid 2px black;
         height: 350px;
         width: 590px;
