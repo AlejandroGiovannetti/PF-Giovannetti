@@ -129,6 +129,17 @@ $background-color_1: black;
 		border: none;
 	}
 }
+
+.inicio__li {
+	&:hover {
+    transform: scale(1.4);
+	}
+    
+}
+
+
+
+
 @media (min-width: 320px) and (max-width: 599px) {
 	ul {
 		margin: 0;
@@ -431,6 +442,8 @@ $background-color_1: black;
 		box-sizing: border-box;
 		margin-right: 5px;
 		display: inline-block;
+		transition: transform 0.9s;
+        
 	}
 	.container__flex__publicidades {
 		display: flex;
@@ -1037,6 +1050,8 @@ $background-color_1: black;
 		box-sizing: border-box;
 		margin-right: 5px;
 		display: inline-block;
+		transition: transform 0.9s;
+        
 	}
 	.container__flex__publicidades {
 		display: flex;
@@ -1604,6 +1619,8 @@ $background-color_1: black;
 		box-sizing: border-box;
 		margin-right: 5px;
 		display: inline-block;
+		transition: transform 0.9s;
+
 	}
 	.container__flex__publicidades {
 		display: flex;

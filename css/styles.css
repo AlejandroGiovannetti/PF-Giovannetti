@@ -642,7 +642,6 @@
         box-sizing: border-box;
         margin-right: 5px;  
         display: inline-block; 
-        display: inline-block;
         transition: transform 0.9s;
         
     
@@ -1744,7 +1743,6 @@
         text-decoration: none;
         box-sizing: border-box;
         margin-right: 5px;  
-        display: inline-block;
         display: inline-block;
         transition: transform 0.9s; 
         
