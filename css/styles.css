@@ -534,6 +534,7 @@
         width: 300px;
         display: flex;
         align-items: center;
+        padding: 10px;
         
         
     }
@@ -579,6 +580,7 @@
         width: 300px;
         display: flex;
         align-items: center;
+        padding: 10px;
     }
     
     .texto-presentacion-3{
@@ -1637,6 +1639,7 @@
         width: 290px;
         display: flex;
         align-items: center;
+        padding: 10px;
         
     }
     
@@ -1681,6 +1684,7 @@
         width: 290px;
         display: flex;
         align-items: center;
+        padding: 10px;
     }
     
     .texto-presentacion-3{
@@ -2684,6 +2688,7 @@
     width: 500px;
     display: flex;
     align-items: center;
+    padding: 10px;
     
 }
 
@@ -2729,6 +2734,8 @@
     width: 500px;
     display: flex;
     align-items: center;
+    padding: 10px;
+
 }
 
 .texto-presentacion-3{
